@@ -10,3 +10,5 @@ for i in range(0,len(arr)):
 list=[1,2,3,4]
 for i in range(len(list)):
     print(list[i])
+    
+print("shehan")
