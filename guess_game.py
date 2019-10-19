@@ -4,7 +4,7 @@ count=0
 while guess!=fav and count<4:
 	guess=input("Enter my favourite fruit:")
 	if(count<4 and guess==fav):
-	    print("you win bladdy fucker!!")
+	    print("you win!!")
 	count=count+1
 if(count>=5):
    print("you lose!")
